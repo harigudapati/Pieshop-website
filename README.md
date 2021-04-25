@@ -1,3 +1,2 @@
-# Building Websites With HTML, CSS, and JavaScript: Getting Started# wired-brain-recipies
-# Pieshop-website
+# Building Websites With HTML, CSS, and JavaScript
 # Pieshop-website
